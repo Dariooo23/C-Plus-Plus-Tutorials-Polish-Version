@@ -13,7 +13,7 @@ int main()
     cout<<a-b<<endl; //Operacja odejmowania, wynik to -4;
     cout<<a*b<<endl; //Operacja mnożenia, wynik to 21
     cout<<a/b<<endl; //Operacja dzielenia, wynik to 0, dzieję się tak ze względu na typ zmiennych int
-
+    cout<<b%a<<endl; //Operacja modulo, wynik to 1
 
     long double d=10,e=3;
     cout<<d/e<<endl; //Operacja dzielenia, wynik to 3,33333, dzieję się tak ze względu na typ zmiennych long double
