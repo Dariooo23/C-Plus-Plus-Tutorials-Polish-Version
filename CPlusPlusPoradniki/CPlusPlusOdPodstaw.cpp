@@ -20,7 +20,7 @@ string funkcja3(char znak, long double liczba){ // <---- Przykładowa funkcja
 int main() // <---- Funkcja main od której zaczyna się cały program
 {   
     //W kodzie pojawia się "cout" oraz "endl", pierwsze z nich służy do wypisania dowolnej rzeczy w konsoli, natomiast drugie służy za znak nowej lini
-    //Czyli jeżeli napiszemy "cout<<3;" to w konsoli otrzymamy "3", a jeżeli napiszemy "cout<<3<<endl;" to otrzymamy "3" oraz nasz kursor przeskoczy do nowej lini;
+    //Czyli jeżeli napiszemy "cout<<3;" to w konsoli otrzymamy "3", a jeżeli napiszemy "cout<<3<<endl;" to otrzymamy "3" oraz nasz kursor przeskoczy do nowej lini
     
     bool liczba0=0; //Wartości 0 lub 1
     int liczba1=0; //Wartości od -2147483648 do 2147483647 w liczbach całkowitych
