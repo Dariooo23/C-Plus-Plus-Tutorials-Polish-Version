@@ -4,9 +4,6 @@ using namespace std;
 
 int main()
 {
-    std::ios_base::sync_with_stdio(0);
-    cout.tie(0);
-    cin.tie(0); 
     //W kodzie pojawia się "cout" oraz "endl", pierwsze z nich służy do wypisania dowolnej rzeczy w konsoli, natomiast drugie służy za znak nowej lini
     //Czyli jeżeli napiszemy "cout<<3;" to w konsoli otrzymamy "3", a jeżeli napiszemy "cout<<3<<endl;" to otrzymamy "3" oraz nasz kursor przeskoczy do nowej lini;
     int a=3,b=7;
