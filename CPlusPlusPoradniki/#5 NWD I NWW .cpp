@@ -4,10 +4,6 @@ using namespace std;
 
 int main()
 {
-    std::ios_base::sync_with_stdio(0);
-    cout.tie(0);
-    cin.tie(0); 
-
     int x,y,a,b;
     cin>>x>>y;
     //W "x" i "y" zapisujemy oryginalne liczby, dla następnych algorytmów będziemy je kopiować do zmienny "a" i "b"
