@@ -4,10 +4,6 @@ using namespace std;
 
 int main()
 {
-    std::ios_base::sync_with_stdio(0);
-    cout.tie(0);
-    cin.tie(0); 
-
     int a=7,b=-10,c=125,d=60;
 
     cout<<min(d,c)<<endl; //Funkcja zwroci 60
