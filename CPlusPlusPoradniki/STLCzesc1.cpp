@@ -4,10 +4,6 @@ using namespace std;
 
 int main()
 {
-    std::ios_base::sync_with_stdio(0);
-    cout.tie(0);
-    cin.tie(0); 
-
     int a=10,b=35;
 
     cout<<min(a,b)<<endl; //Zwraca mniejsza wartosc;
